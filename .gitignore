@@ -1,0 +1,5 @@
+.vs
+packages
+WebProject/bin
+WebProject/obj
+WebProject/WebProject.csproj.user
